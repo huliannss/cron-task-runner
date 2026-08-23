@@ -1,0 +1,1 @@
+class Runner { add(f) { setInterval(f, 1000); } } module.exports = { Runner };
